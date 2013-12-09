@@ -1,0 +1,6 @@
+LIBRARY	"cinderella"
+
+EXPORTS
+;Explicit exports can go here
+	luaopen_cinderella				PRIVATE
+	test                            PRIVATE
